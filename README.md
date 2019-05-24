@@ -3,7 +3,7 @@ Classic game Snake implemented using gnuplot.
 
 ## Preview
 
-...
+<img src="img/preview.gif" width="500" >
 
 ## About project
 
