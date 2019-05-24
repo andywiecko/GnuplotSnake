@@ -1,5 +1,5 @@
 # GnuplotSnake
-Classic game Snake implemented using gnuplot.
+Classic game Snake implemented using gnuplot. Feel free to make a pull request.
 
 ## Preview
 
