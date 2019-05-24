@@ -7,11 +7,11 @@ Classic game Snake implemented using gnuplot. Feel free to make a pull request.
 
 ## About project
 
-The goal of this project is to write an implementation of classic game Snake using only syntax, which is avaliable in gnuplot (shell escape commands like `'<...'` or `system()` are not allowed.
+The goal of this project is to write an implementation of classic game Snake using only syntax, which is avaliable in gnuplot (shell escape commands like `'<...'` or `system()` are not allowed).
 
 Controls: arrows
 
-Tested on: Ubuntu 18.04, gnuplot 5.2
+Tested on: Ubuntu 18.04, gnuplot 5.2, gnuplot terminal: x11
 
 ## TODO
 
